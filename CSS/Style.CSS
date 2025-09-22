@@ -1,14 +1,14 @@
 /* Reset and Base Styles */ 
 
-{ 
 
-    Margin:1; 
+
+    Margin:0; 
   
-    Padding:1; 
+    Padding:0; 
   
     Box-sizing:border-box> 
   
-  } 
+  
   
    
   
@@ -1166,7 +1166,7 @@ Footer {
 header nav a: hover,
 header nav a.active{
     background: color #004999;
-    transform: scale(1.05);
+    transform: scale (1.05);
 }
 
 
