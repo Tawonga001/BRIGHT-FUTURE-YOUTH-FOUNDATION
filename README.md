@@ -79,8 +79,4 @@ First stable release of the website.
 Below are screenshots on how the website looks on different devices
 <img width="1600" height="900" alt="WB" src="https://github.com/user-attachments/assets/8c46d3fc-13e1-4365-ab0b-f52b5dc2d107" />
 
- 
- 
 
-## 📂 Project Structure 
-<img width="1600" height="900" alt="WB" src="https://github.com/user-attachments/assets/8c46d3fc-13e1-4365-ab0b-f52b5dc2d107" />
