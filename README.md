@@ -44,6 +44,16 @@ This website serves as the official online presence of the foundation, ensuring 
 - **JavaScript**   
 - Hosted on **GitHub Pages** (optional for deployment).   
 
+## References
+
+1. Mozilla Developer Network (MDN Web Docs). (n.d.). *HTML, CSS, and JavaScript Documentation.* Retrieved from [https://developer.mozilla.org/](https://developer.mozilla.org/)
+2. W3Schools. (n.d.). *Web Development Tutorials.* Retrieved from [https://www.w3schools.com/](https://www.w3schools.com/)
+3. FreeCodeCamp. (n.d.). *Responsive Web Design Principles.* Retrieved from [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+4. Canva. (n.d.). *Design Inspiration for Nonprofit Websites.* Retrieved from [https://www.canva.com/](https://www.canva.com/)
+5. Unsplash. (n.d.). *Free Images Used for Team and Program Sections.* Retrieved from [https://unsplash.com/](https://unsplash.com/)
+6. Font Awesome. (n.d.). *Icon Library for Web Design.* Retrieved from [https://fontawesome.com/](https://fontawesome.com/)
+7. Google Fonts. (n.d.). *Fonts Used in the Project.* Retrieved from [https://fonts.google.com/](https://fonts.google.com/)
+
 ## Changelog 
 All notable changes to this project are documented here.   
 
@@ -74,6 +84,13 @@ Updated navigation bar styling for consistency across pages.
 
 **Notes**   
 First stable release of the website.   
+
+## References
+
+- MDN Web Docs – used for improving HTML form validation
+- W3Schools – used for CSS layout and grid tutorials
+- Unsplash – source of royalty-free images
+- GitHub Docs – for version control and README formatting
 
 
 Below are screenshots on how the website looks on different devices
