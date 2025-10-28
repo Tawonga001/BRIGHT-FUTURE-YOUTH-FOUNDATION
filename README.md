@@ -44,51 +44,9 @@ This project demonstrates practical web development skills including **HTML5**, 
 - **CSS3** – responsive layout and styling  
 - **JavaScript (ES6)** – interactivity, DOM manipulation, validation  
 - **Git & GitHub** – version control and collaboration  
-- **SEO Techniques** – metadata, alt text, sitemaps, robots.txt  
-   
+- **SEO Techniques** – metadata, alt text, sitemaps, robots.txt
 
-## References
-
-1. Mozilla Developer Network (MDN Web Docs). (n.d.). *HTML, CSS, and JavaScript Documentation.* Retrieved from [https://developer.mozilla.org/](https://developer.mozilla.org/)
-2. W3Schools. (n.d.). *Web Development Tutorials.* Retrieved from [https://www.w3schools.com/](https://www.w3schools.com/)
-3. FreeCodeCamp. (n.d.). *Responsive Web Design Principles.* Retrieved from [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
-4. Canva. (n.d.). *Design Inspiration for Nonprofit Websites.* Retrieved from [https://www.canva.com/](https://www.canva.com/)
-5. Unsplash. (n.d.). *Free Images Used for Team and Program Sections.* Retrieved from [https://unsplash.com/](https://unsplash.com/)
-6. Font Awesome. (n.d.). *Icon Library for Web Design.* Retrieved from [https://fontawesome.com/](https://fontawesome.com/)
-7. Google Fonts. (n.d.). *Fonts Used in the Project.* Retrieved from [https://fonts.google.com/](https://fonts.google.com/)
-
-## Changelog 
-All notable changes to this project are documented here.   
-
-### [Unreleased] 
-- Planned: Add Events page   
-- Planned: Create Get Involved page   
-- Planned: Add Contact page with form   
-- Planned: Improve mobile responsiveness   
-
-### [1.1.0] – 2025-09-25 
-**Added**   
-- Team section with member photos, names, and positions.   
-- Donation page with a functional form for collecting supporter details.   
-
-**Changed**   
-- Updated About Us page layout to include the new team grid.   
-- Improved overall styling for consistency.
-  
-### [1.0.0] – 2025-09-25 
-**Added**   
-- Home page with mission statement and call-to-action buttons.   
-- About Us page with history, mission, and vision section.   
-- Programs page with youth empowerment initiatives.   
-- Responsive design adjustments for mobile, tablet, and desktop.   
-
-**Changed**   
-Updated navigation bar styling for consistency across pages.   
-
-**Notes**   
-First stable release of the website.
-
-## 🚀 Key Features Implemented - 2025-10-28
+##  Key Features Implemented - 2025-10-28
 
 ### 1. Functionality (JavaScript Enhancements)
 - Accordion section for “Our Programs”
@@ -148,6 +106,85 @@ First stable release of the website.
 - W3Schools – used for CSS layout and grid tutorials
 - Unsplash – source of royalty-free images
 - GitHub Docs – for version control and README formatting
+
+   
+
+## References
+
+1. Mozilla Developer Network (MDN Web Docs). (n.d.). *HTML, CSS, and JavaScript Documentation.* Retrieved from [https://developer.mozilla.org/](https://developer.mozilla.org/)
+2. W3Schools. (n.d.). *Web Development Tutorials.* Retrieved from [https://www.w3schools.com/](https://www.w3schools.com/)
+3. FreeCodeCamp. (n.d.). *Responsive Web Design Principles.* Retrieved from [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+4. Canva. (n.d.). *Design Inspiration for Nonprofit Websites.* Retrieved from [https://www.canva.com/](https://www.canva.com/)
+5. Unsplash. (n.d.). *Free Images Used for Team and Program Sections.* Retrieved from [https://unsplash.com/](https://unsplash.com/)
+6. Font Awesome. (n.d.). *Icon Library for Web Design.* Retrieved from [https://fontawesome.com/](https://fontawesome.com/)
+7. Google Fonts. (n.d.). *Fonts Used in the Project.* Retrieved from [https://fonts.google.com/](https://fonts.google.com/)
+
+## Changelog 
+All notable changes to this project are documented here.   
+
+### [Unreleased] 
+- Planned: Add Events page   
+- Planned: Create Get Involved page   
+- Planned: Add Contact page with form   
+- Planned: Improve mobile responsiveness   
+
+### [1.1.0] – 2025-09-25 
+**Added**   
+- Team section with member photos, names, and positions.   
+- Donation page with a functional form for collecting supporter details.   
+
+**Changed**   
+- Updated About Us page layout to include the new team grid.   
+- Improved overall styling for consistency.
+  
+### [1.0.0] – 2025-09-25 
+**Added**   
+- Home page with mission statement and call-to-action buttons.   
+- About Us page with history, mission, and vision section.   
+- Programs page with youth empowerment initiatives.   
+- Responsive design adjustments for mobile, tablet, and desktop.   
+
+**Changed**   
+Updated navigation bar styling for consistency across pages.   
+
+**Notes**   
+First stable release of the website.
+
+
+# 🕒 Changelog – Bright Future Youth Foundation -2025-10-28
+
+All major updates and improvements for the project are listed below.
+
+
+## [Version 3.0] – October 2025
+### ✨ Part 3: Enhancing Functionality and SEO
+- Added **accordion** for “Our Programs” section.
+- Added **lightbox gallery** for “Our Impact” images.
+- Added **search filter** for programs/events.
+- Integrated **JavaScript form validation** for enquiry & contact pages.
+- Created **robots.txt** and **sitemap.xml** for SEO.
+- Improved **meta titles, descriptions, and alt tags**.
+- Optimized for **mobile and responsive design**.
+- Updated **README.md** and project documentation.
+- Enhanced user feedback with success/error messages.
+
+
+## [Version 2.0] – August 2025
+### 🧱 Part 2: Layout and Styling
+- Implemented responsive design with CSS3.
+- Improved navigation menu and footer layout.
+- Added background images and color palette.
+- Updated “Programs” and “About Us” content.
+
+
+## [Version 1.0] – July 2025
+### 🚀 Part 1: Structure and Planning
+- Created main HTML pages (Home, About, Programs, Enquiry, Contact).
+- Added initial structure, headings, and placeholder text.
+- Set up repository and project folder structure.
+
+
+
 
 
 Below are screenshots on how the website looks on different devices
