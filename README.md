@@ -4,6 +4,7 @@ The **Bright Future Youth Foundation Website** is a platform designed to showcas
 ## Project Overview 
 The Bright Future Youth Foundation empowers young people through programs, mentorship, and community initiatives.   
 This website serves as the official online presence of the foundation, ensuring accessibility and engagement for visitors. 
+This project demonstrates practical web development skills including **HTML5**, **CSS3**, **JavaScript**, **SEO optimization**, and **form validation**, following the assignment requirements for *Part 3: Enhancing Functionality and SEO*.
 
 ## Features 
 - **Home Page**   
@@ -39,10 +40,12 @@ This website serves as the official online presence of the foundation, ensuring 
 
 
  ## Tech Stack 
-- **HTML5**   
-- **CSS3** (with responsive design)   
-- **JavaScript**   
-- Hosted on **GitHub Pages** (optional for deployment).   
+- **HTML5** – structure and semantic content  
+- **CSS3** – responsive layout and styling  
+- **JavaScript (ES6)** – interactivity, DOM manipulation, validation  
+- **Git & GitHub** – version control and collaboration  
+- **SEO Techniques** – metadata, alt text, sitemaps, robots.txt  
+   
 
 ## References
 
@@ -83,7 +86,61 @@ All notable changes to this project are documented here.
 Updated navigation bar styling for consistency across pages.   
 
 **Notes**   
-First stable release of the website.   
+First stable release of the website.
+
+## 🚀 Key Features Implemented - 2025-10-28
+
+### 1. Functionality (JavaScript Enhancements)
+- Accordion section for “Our Programs”
+- Lightbox image gallery under “Our Impact”
+- Search filter for programs/events
+- Fully functional enquiry and contact forms
+- Client-side form validation with feedback messages
+
+### 2. SEO Optimization
+- Unique `<title>` and `<meta>` descriptions for each page  
+- Optimized keyword usage  
+- Proper header structure (H1–H3 hierarchy)  
+- Alt text for all images  
+- Sitemap and robots.txt files created  
+- Mobile-friendly, responsive design  
+
+### 3. Form Functionality
+- HTML5 required fields and input validation  
+- Custom JavaScript validation  
+- Success and error messages displayed dynamically  
+- (Optional) AJAX simulation for bonus marks  
+
+
+## 📂 Pages Summary
+| Page | Purpose |
+	
+| **index.html** | Introduction to the foundation and mission |
+| **about.html** | Background, values, and team information |
+| **programs.html** | Details about youth programs and initiatives |
+| **enquiry.html** | Enquiry form for volunteering or sponsorship |
+| **contact.html** | General contact and feedback form |
+
+
+## 🔍 SEO Files
+- **robots.txt** – allows full indexing by search engines  
+- **sitemap.xml** – lists all main site URLs for Google indexing  
+
+
+## 🧠 Learning Outcomes
+- Enhanced understanding of front-end functionality  
+- Implementation of SEO best practices  
+- Improved user experience through interactive design  
+- Demonstrated effective version control and documentation skills  
+
+
+## 📅 Author & Course Info
+**Project Title:** Bright Future Youth Foundation  
+**Module:** Web Development (2nd Semester 2025)  
+**Student:** Tawonga Mkhandawiri  
+**Institution:** IIE Rosebank College  
+**Language:** HTML, CSS, JavaScript  
+
 
 ## References
 
